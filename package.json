@@ -9,12 +9,13 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "fp-ts": "^2.16.1",
+    "next": "14.0.3",
     "react": "^18",
-    "react-dom": "^18",
-    "next": "14.0.3"
+    "react-dom": "^18"
   },
   "devDependencies": {
-    "eslint": "^8",
-    "eslint-config-next": "14.0.3"
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0",
+    "hardhat": "^2.12.0"
   }
 }
